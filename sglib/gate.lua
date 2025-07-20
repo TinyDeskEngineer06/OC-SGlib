@@ -1,4 +1,4 @@
--- Stargate 
+-- Stargate control library by TinyDeskEngineer06
 
 local component = require("component")
 local event = require("event")
