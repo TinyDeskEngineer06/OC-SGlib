@@ -13,7 +13,7 @@ local gates = {
 
 local origins = {
   ["MILKYWAY"] = "Point of Origin",
-  ["Pegasus"] = "Subido",
+  ["PEGASUS"] = "Subido",
   ["UNIVERSE"] = "G17"
 }
 
